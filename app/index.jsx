@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
   appContainer: {
     flex: 1,
     alignItems: "center",
-    paddingTop: 200,
+    paddingTop: 300,
     backgroundColor: '#ffffff',
   },
   textStyle: {
