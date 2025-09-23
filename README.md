@@ -29,14 +29,14 @@ A sleek and intuitive React Native todo app built with Expo that helps you track
 
 ### For Mobile 
 
-div align="center">
+<div align="center">
   <img src="./screenshot/image1.jpg" width="300" alt="ToDo App Home" />
   <img src="./screenshot/image2.jpg" width="300" alt="ToDo App Forecast" />
 </div>
 
 ### Preview 
 
-div align="center">
+<div align="center">
   <img src="./screenshot/preview.gif" width="300" alt="Goal ToDo App Home" />
 </div>
 
