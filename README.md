@@ -27,6 +27,20 @@ A sleek and intuitive React Native todo app built with Expo that helps you track
 ### Goal Management Interface
 ![Goal Tracker Todo List](https://github.com/user-attachments/assets/65cbd629-44f5-4247-b315-9c08665e3565)
 
+### For Mobile 
+
+div align="center">
+  <img src="./screenshot/image1.jpg" width="300" alt="ToDo App Home" />
+  <img src="./screenshot/image2.jpg" width="300" alt="ToDo App Forecast" />
+</div>
+
+### Preview 
+
+div align="center">
+  <img src="./screenshot/preview.gif" width="300" alt="Goal ToDo App Home" />
+</div>
+
+
 The app features a clean, intuitive interface with:
 - **Welcome screen** with app logo and entry point
 - **Modal-based goal management** for focused interaction
